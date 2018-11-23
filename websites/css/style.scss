@@ -11,7 +11,7 @@
 
 // Colors
 
-$background-color: {{ site.data.settings.color_settings.background_color }};
+$background-color: {{ #FFFFFF }};
 $background-alt-color: {{ site.data.settings.color_settings.background_alt_color }};
 $border-color: {{ site.data.settings.color_settings.border_color }};
 
